@@ -22,7 +22,11 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 195
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:10389-10663", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -45,7 +49,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 195
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -68,7 +74,11 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 195
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:34624-34898", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -91,7 +101,11 @@
      "VIntronEnd": 65, 
      "CDR2Begin": 219
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:111192-111454", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -114,7 +128,9 @@
      "VIntronEnd": 65, 
      "CDR2Begin": 219
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -137,7 +153,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:120682-120965", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -160,7 +180,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -183,7 +205,11 @@
      "VIntronEnd": 41, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:132837-133113", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -206,7 +232,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:151573-151849", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -229,7 +259,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -252,7 +284,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -275,7 +309,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:161507-161786", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -298,7 +336,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -322,6 +362,9 @@
      "CDR2Begin": 204
     }, 
     "meta": {
+     "ExtendedFromIMGT": true, 
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000013:184151-184434", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -346,7 +389,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:232186-232469", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -369,7 +416,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:282502-282785", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -392,7 +443,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:288071-288354", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -415,7 +470,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -438,7 +495,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:363743-364029", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -461,7 +522,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -484,7 +547,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -507,7 +572,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:565311-565594", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -530,7 +599,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -553,7 +624,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:197959-198239", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -576,7 +651,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -599,7 +676,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:326120-326400", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -622,7 +703,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -645,7 +728,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:211191-211470", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -668,7 +755,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:215454-215733", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -687,7 +778,10 @@
      "VEnd": 277, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:223797-224073", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -710,7 +804,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:226750-227023", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -733,7 +831,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:276006-276282", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -756,7 +858,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -779,7 +883,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -802,7 +908,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:350761-351037", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -825,7 +935,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -848,7 +960,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:253431-253710", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -871,7 +987,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -894,7 +1012,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -917,7 +1037,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:301917-302196", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -940,7 +1064,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -963,7 +1089,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:307801-308088", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -986,7 +1116,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:375562-375833", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1009,7 +1143,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1032,7 +1168,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:385028-385304", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1055,7 +1195,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1078,7 +1220,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:397254-397531", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1097,7 +1243,10 @@
      "VEnd": 290, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:400473-400762", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1120,7 +1269,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1143,7 +1294,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:436409-436682", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1166,7 +1321,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1189,7 +1346,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:446759-447037", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1212,7 +1373,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1235,7 +1398,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:473602-473872", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1258,7 +1425,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1281,7 +1450,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1304,7 +1475,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1327,7 +1500,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:490197-490467", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1350,7 +1527,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1373,7 +1552,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1396,7 +1577,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 231
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:488668-488947", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1419,7 +1604,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 231
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1442,7 +1629,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 231
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:504680-504959", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1465,7 +1656,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 231
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:515746-516025", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1488,7 +1683,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 231
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1511,7 +1708,11 @@
      "VIntronEnd": 56, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:537869-538145", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1534,7 +1735,9 @@
      "VIntronEnd": 56, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1557,7 +1760,9 @@
      "VIntronEnd": 56, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1580,7 +1785,9 @@
      "VIntronEnd": 56, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1603,7 +1810,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:545240-545512", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1626,7 +1837,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1649,7 +1862,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1672,7 +1887,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1695,7 +1912,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:556195-556471", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1718,7 +1939,9 @@
      "VIntronEnd": 52, 
      "CDR2Begin": 205
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1741,7 +1964,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:625439-625714", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1764,7 +1991,9 @@
      "VIntronEnd": 46, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1787,7 +2016,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:582807-583080", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1810,7 +2043,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1833,7 +2068,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 225
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:596379-596658", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1856,7 +2095,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 225
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1879,7 +2120,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 225
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1902,7 +2145,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:602132-602405", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1925,7 +2172,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1949,7 +2198,8 @@
      "CDR2Begin": 210
     }, 
     "meta": {
-     "mixcrDebug": "CDR3 does not start with C, was: CTC / L / CDR3Begin: 330"
+     "mixcrDebug": "CDR3 does not start with C, was: CTC / L / CDR3Begin: 330", 
+     "In_IMGT": false
     }, 
     "isFunctional": true, 
     "chains": [
@@ -1973,7 +2223,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 204
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:630153-630429", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -1996,7 +2250,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:643090-643365", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2019,7 +2277,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2042,7 +2302,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2065,7 +2327,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:647853-648129", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2089,7 +2355,10 @@
      "CDR2Begin": 210
     }, 
     "meta": {
-     "mixcrDebug": "CDR3 does not start with C, was: CAG / Q / CDR3Begin: 330"
+     "mixcrDebug": "CDR3 does not start with C, was: CAG / Q / CDR3Begin: 330", 
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:678709-678984", 
+     "In_IMGT": true
     }, 
     "isFunctional": true, 
     "chains": [
@@ -2113,7 +2382,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:685009-685298", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2136,7 +2409,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2159,7 +2434,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:694517-694805", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2182,7 +2461,11 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:718111-718387", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2205,7 +2488,11 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:729058-729320", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2228,7 +2515,11 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:735475-735744", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2251,7 +2542,9 @@
      "VIntronEnd": 53, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2266,6 +2559,8 @@
      "FR1Begin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000013:814047-814323", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -2282,6 +2577,8 @@
      "FR1Begin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000026:53124-53400", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -2299,6 +2596,8 @@
      "JBegin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000013:962318-962379", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -2311,11 +2610,14 @@
     "name": "TRAJ2*01", 
     "geneType": "J", 
     "anchorPoints": {
-     "FR4Begin": 63, 
-     "FR4End": 94, 
+     "FR4Begin": 35, 
+     "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:961353-961418", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2330,7 +2632,10 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:960783-960844", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2345,7 +2650,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:959816-959878", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2360,7 +2668,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:958261-958320", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2375,7 +2686,10 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:957088-957149", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2390,7 +2704,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:955643-955699", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2405,7 +2722,9 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2420,7 +2739,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:954170-954229", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2435,7 +2757,10 @@
      "FR4End": 61, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:953575-953635", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2450,7 +2775,10 @@
      "FR4End": 64, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:951623-951686", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2465,7 +2793,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:950626-950685", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2480,7 +2811,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:950064-950123", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2495,7 +2829,9 @@
      "FR4End": 64, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2510,7 +2846,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:949206-949268", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2526,7 +2865,9 @@
      "JBegin": 0
     }, 
     "meta": {
-     "mixcrDebug": "CDR3 does not end with W or F, was: ACA / T / CDR3End: 17"
+     "mixcrDebug": "CDR3 does not end with W or F, was: ACA / T / CDR3End: 17", 
+     "IMGT_Position": "IMGT000013:948439-948495", 
+     "In_IMGT": true
     }, 
     "isFunctional": true, 
     "chains": [
@@ -2542,7 +2883,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:947745-947804", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2557,7 +2901,9 @@
      "FR4End": 64, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2572,7 +2918,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:946627-946686", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2587,7 +2936,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:945244-945306", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2602,7 +2954,10 @@
      "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:944050-944115", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2617,7 +2972,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:943663-943722", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2632,7 +2990,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:942737-942793", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2647,7 +3008,9 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2662,7 +3025,10 @@
      "FR4End": 55, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:942025-942079", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2677,7 +3043,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:940472-940534", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2692,7 +3061,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:938850-938912", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2707,7 +3079,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:938420-938482", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2722,7 +3097,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:937241-937300", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2737,7 +3115,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:936872-936931", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2752,7 +3133,9 @@
      "FR4End": 65, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2767,7 +3150,10 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:934690-934748", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2782,7 +3168,9 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2797,7 +3185,10 @@
      "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:934040-934105", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2812,7 +3203,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:932683-932742", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2827,7 +3221,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:931596-931652", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2842,7 +3239,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:929718-929774", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2857,7 +3257,9 @@
      "FR4End": 61, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2872,7 +3274,10 @@
      "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:928092-928157", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2887,7 +3292,9 @@
      "FR4End": 72, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2902,7 +3309,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:927357-927413", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2917,7 +3327,10 @@
      "FR4End": 56, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:926355-926410", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2932,7 +3345,10 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:925336-925394", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2947,7 +3363,9 @@
      "FR4End": 61, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2962,7 +3380,10 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:923792-923850", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2977,7 +3398,10 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:922741-922802", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -2992,7 +3416,10 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:921215-921276", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3007,7 +3434,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:920589-920651", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3022,7 +3452,10 @@
      "FR4End": 61, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:918669-918729", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3037,7 +3470,9 @@
      "FR4End": 65, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3052,7 +3487,10 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:916640-916701", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3067,7 +3505,10 @@
      "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:915870-915935", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3082,7 +3523,9 @@
      "FR4End": 69, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3097,7 +3540,10 @@
      "FR4End": 54, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:914889-914942", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3112,7 +3558,9 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3127,7 +3575,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:913794-913856", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3142,7 +3593,10 @@
      "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:912898-912963", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3157,7 +3611,9 @@
      "FR4End": 72, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3172,7 +3628,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:912376-912438", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3187,7 +3646,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:911816-911872", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3202,7 +3664,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:909894-909956", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3217,7 +3682,10 @@
      "FR4End": 56, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:908901-908956", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3232,7 +3700,9 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3247,7 +3717,10 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:908020-908079", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3262,7 +3735,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:906605-906667", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3277,7 +3753,10 @@
      "FR4End": 69, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:905653-905721", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3292,7 +3771,10 @@
      "FR4End": 69, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000026:144234-144302", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3307,7 +3789,9 @@
      "FR4End": 72, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3322,7 +3806,10 @@
      "FR4End": 66, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:902440-902505", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3337,7 +3824,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:901234-901296", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3353,7 +3843,9 @@
      "JBegin": 2
     }, 
     "meta": {
-     "mixcrDebug": "GermlineJCDR3Part contains a stop codon;JRegion contains a stop codon"
+     "mixcrDebug": "GermlineJCDR3Part contains a stop codon;JRegion contains a stop codon", 
+     "IMGT_Position": "IMGT000013:900638-900694", 
+     "In_IMGT": true
     }, 
     "isFunctional": true, 
     "chains": [
@@ -3369,7 +3861,10 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:898453-898514", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3384,7 +3879,10 @@
      "FR4End": 63, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:897790-897852", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3400,6 +3898,8 @@
      "JBegin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000013:896632-896694", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -3416,7 +3916,10 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:895247-895303", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3431,7 +3934,9 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3446,7 +3951,10 @@
      "FR4End": 64, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:894254-894313", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRA"
@@ -3470,6 +3978,9 @@
      "CDR2Begin": 190
     }, 
     "meta": {
+     "ExtendedFromIMGT": true, 
+     "In_IMGT": true, 
+     "IMGT_Position": "NW_001114291:94603-94886", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -3495,6 +4006,7 @@
      "CDR2Begin": 190
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -3519,7 +4031,9 @@
      "VIntronEnd": 42, 
      "CDR2Begin": 190
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": false, 
     "chains": [
      "TRB"
@@ -3543,6 +4057,7 @@
      "CDR2Begin": 205
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -3567,7 +4082,9 @@
      "VIntronEnd": 54, 
      "CDR2Begin": 205
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": false, 
     "chains": [
      "TRB"
@@ -3590,7 +4107,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:96423-96712", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3613,7 +4134,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3636,7 +4159,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:116256-116545", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3659,7 +4186,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3682,7 +4211,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:132360-132649", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3705,7 +4238,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3728,7 +4263,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:103390-103676", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3751,7 +4290,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:123850-124136", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3774,7 +4317,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:138878-139164", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3797,7 +4344,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3820,7 +4369,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:176721-177007", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3843,7 +4396,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3866,7 +4421,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3889,7 +4446,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:108034-108320", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3912,7 +4473,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3935,7 +4498,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:143215-143501", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3958,7 +4525,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -3981,7 +4550,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4004,7 +4575,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:180154-180440", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4023,7 +4598,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:95746-96032", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4046,7 +4624,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4069,7 +4649,11 @@
      "VIntronEnd": 41, 
      "CDR2Begin": 192
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:154002-154287", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4088,7 +4672,10 @@
      "VEnd": 286, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:69768-70053", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4111,7 +4698,9 @@
      "VIntronEnd": 41, 
      "CDR2Begin": 192
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4135,6 +4724,9 @@
      "CDR2Begin": 192
     }, 
     "meta": {
+     "ExtendedFromIMGT": true, 
+     "In_IMGT": true, 
+     "IMGT_Position": "NW_001114291:183519-183804", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -4156,6 +4748,8 @@
      "FR1Begin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000012:99111-99396", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -4180,7 +4774,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:226230-226518", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4199,7 +4797,10 @@
      "VEnd": 289, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:141874-142162", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4222,7 +4823,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4245,7 +4848,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4268,7 +4873,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:299688-299973", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4288,6 +4897,8 @@
      "FR1Begin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000012:215292-215577", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -4312,7 +4923,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4335,7 +4948,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4354,7 +4969,10 @@
      "VEnd": 286, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:237201-237486", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4377,7 +4995,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4400,7 +5020,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:337595-337880", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4423,7 +5047,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4446,7 +5072,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4469,7 +5097,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:353595-353880", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4492,7 +5124,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4515,7 +5149,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:385483-385768", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4538,7 +5176,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4561,7 +5201,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4584,7 +5226,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:405309-405594", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4603,7 +5249,10 @@
      "VEnd": 286, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:321243-321528", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4626,7 +5275,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4649,7 +5300,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:424338-424623", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4672,7 +5327,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4695,7 +5352,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:161933-162219", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4714,7 +5375,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:77697-77983", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4737,7 +5401,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4756,7 +5422,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "NW_001114291:191927-192213", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4775,7 +5444,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:107491-107777", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4794,6 +5466,8 @@
      "FR1Begin": 0
     }, 
     "meta": {
+     "IMGT_Position": "IMGT000012:110146-110399", 
+     "In_IMGT": true, 
      "partialLength": true
     }, 
     "isFunctional": true, 
@@ -4818,7 +5492,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:287438-287724", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4837,7 +5515,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:203144-203430", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4860,7 +5541,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4883,7 +5566,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:304972-305258", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4902,7 +5589,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:220576-220862", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4925,7 +5615,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000012:240504-240790", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4948,7 +5642,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:359639-359925", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4971,7 +5669,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:392917-393203", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -4990,7 +5692,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:328530-328816", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5013,7 +5718,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5036,7 +5743,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5056,6 +5765,8 @@
      "FR1Begin": 0
     }, 
     "meta": {
+     "In_IMGT": true, 
+     "IMGT_Position": "IMGT000012:81598-81887", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -5080,7 +5791,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:198735-198955", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5103,7 +5818,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:221188-221477", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5126,7 +5845,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5149,7 +5870,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:291671-291960", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5168,7 +5893,10 @@
      "VEnd": 290, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:207376-207665", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5191,7 +5919,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5214,7 +5944,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5237,7 +5969,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:311130-311419", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5260,7 +5996,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5283,7 +6021,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5306,7 +6046,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:326960-327249", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5329,7 +6073,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5352,7 +6098,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:348526-348815", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5376,6 +6126,7 @@
      "CDR2Begin": 214
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -5400,7 +6151,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 214
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": false, 
     "chains": [
      "TRB"
@@ -5423,7 +6176,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:416849-417138", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5446,7 +6203,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5469,7 +6228,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:435064-435353", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5492,7 +6255,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5511,6 +6276,7 @@
      "VIntronEnd": 47
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -5530,7 +6296,9 @@
      "L2Begin": 47, 
      "VIntronEnd": 47
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": false, 
     "chains": [
      "TRB"
@@ -5553,7 +6321,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:228916-229201", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5572,7 +6344,10 @@
      "VEnd": 286, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:144560-144845", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5595,7 +6370,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5618,7 +6395,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5641,7 +6420,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:237222-237508", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5660,7 +6443,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:152888-153174", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5683,7 +6469,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5706,7 +6494,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:261171-261457", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5729,7 +6521,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:449190-449476", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5748,7 +6544,10 @@
      "VEnd": 287, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:367691-367977", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5771,7 +6570,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:248580-248869", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5794,7 +6597,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5817,7 +6622,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:270328-270617", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5840,7 +6649,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5863,7 +6674,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5886,7 +6699,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:460229-460518", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5909,7 +6726,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:277224-277513", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5932,7 +6753,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:465830-466119", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5951,7 +6776,10 @@
      "VEnd": 290, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000012:384334-384623", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5974,7 +6802,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -5997,7 +6827,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:469098-469387", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6020,7 +6854,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6043,7 +6879,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6066,7 +6904,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:484440-484729", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6089,7 +6931,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6112,7 +6956,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:441886-442172", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6135,7 +6983,9 @@
      "VIntronEnd": 29, 
      "CDR2Begin": 199
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6158,7 +7008,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 199
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6181,7 +7033,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:491426-491715", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6204,7 +7060,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6227,7 +7085,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6250,7 +7110,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:497080-497366", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6273,7 +7137,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:502958-503247", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6296,7 +7164,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6319,7 +7189,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:517586-517875", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6342,7 +7216,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:520807-521093", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6365,7 +7243,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6388,7 +7268,9 @@
      "VIntronEnd": 32, 
      "CDR2Begin": 192
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6411,7 +7293,9 @@
      "VIntronEnd": 32, 
      "CDR2Begin": 192
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6434,7 +7318,11 @@
      "VIntronEnd": 32, 
      "CDR2Begin": 189
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:528753-529045", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6457,7 +7345,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:539092-539378", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6481,6 +7373,9 @@
      "CDR2Begin": 197
     }, 
     "meta": {
+     "ExtendedFromIMGT": true, 
+     "In_IMGT": true, 
+     "IMGT_Position": "NW_001114291:543873-544152", 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -6505,7 +7400,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:548069-548358", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6528,7 +7427,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:560072-560359", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6551,7 +7454,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:567902-568188", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6575,6 +7482,7 @@
      "CDR2Begin": 201
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -6599,7 +7507,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": false, 
     "chains": [
      "TRB"
@@ -6622,7 +7532,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:608801-609087", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6645,7 +7559,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6668,7 +7584,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:614134-614420", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6691,7 +7611,9 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6714,7 +7636,11 @@
      "VIntronEnd": 35, 
      "CDR2Begin": 189
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:627954-628243", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6737,7 +7663,9 @@
      "VIntronEnd": 35, 
      "CDR2Begin": 189
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6760,7 +7688,11 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "NW_001114291:804422-804705", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6783,7 +7715,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6806,7 +7740,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 198
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6825,6 +7761,7 @@
      "VIntronEnd": 48
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -6845,6 +7782,7 @@
      "VIntronEnd": 46
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -6861,7 +7799,10 @@
      "FR4End": 48, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43137:749-796", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6876,7 +7817,9 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6891,7 +7834,10 @@
      "FR4End": 48, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43137:884-931", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6906,7 +7852,10 @@
      "FR4End": 50, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43137:1505-1554", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6921,7 +7870,10 @@
      "FR4End": 51, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43137:2092-2142", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6936,7 +7888,10 @@
      "FR4End": 50, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43137:2364-2413", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6951,7 +7906,9 @@
      "FR4End": 54, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6966,7 +7923,9 @@
      "FR4End": 54, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6981,7 +7940,10 @@
      "FR4End": 53, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43137:2854-2906", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -6996,7 +7958,10 @@
      "FR4End": 53, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "NW_001114291:780379-780431", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7011,7 +7976,9 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7026,7 +7993,9 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7041,7 +8010,10 @@
      "FR4End": 50, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:767-816", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7056,7 +8028,10 @@
      "FR4End": 50, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "NW_001114291:788015-788064", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7071,7 +8046,9 @@
      "FR4End": 57, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7086,7 +8063,10 @@
      "FR4End": 51, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:962-1012", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7102,6 +8082,7 @@
      "JBegin": 0
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -7118,7 +8099,10 @@
      "FR4End": 49, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:1249-1297", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7133,7 +8117,10 @@
      "FR4End": 49, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:1379-1427", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7148,7 +8135,10 @@
      "FR4End": 48, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:1498-1545", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7163,7 +8153,10 @@
      "FR4End": 53, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:1618-1670", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7178,7 +8171,10 @@
      "FR4End": 47, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "L43138:1832-1878", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRB"
@@ -7201,7 +8197,11 @@
      "VIntronEnd": 50, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:524994-525280", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7224,7 +8224,11 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 210
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:840870-841157", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7247,7 +8251,11 @@
      "VIntronEnd": 38, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "ExtendedFromIMGT": true, 
+     "IMGT_Position": "IMGT000013:888001-888290", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7266,7 +8274,10 @@
      "VEnd": 290, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000026:127040-127329", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7285,7 +8296,10 @@
      "VEnd": 288, 
      "FR1Begin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:820452-820739", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7300,7 +8314,10 @@
      "FR4End": 51, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:869156-869206", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7315,7 +8332,10 @@
      "FR4End": 54, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:875746-875799", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7330,7 +8350,10 @@
      "FR4End": 59, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:878124-878182", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7345,7 +8368,10 @@
      "FR4End": 48, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "IMGT_Position": "IMGT000013:874312-874359", 
+     "In_IMGT": true
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRD"
@@ -7368,6 +8394,7 @@
      "CDR2Begin": 197
     }, 
     "meta": {
+     "In_IMGT": false, 
      "addedP": true
     }, 
     "isFunctional": false, 
@@ -7392,7 +8419,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7415,7 +8444,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7438,7 +8469,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7461,7 +8494,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7484,7 +8519,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7507,7 +8544,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7530,7 +8569,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7553,7 +8594,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 201
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7576,7 +8619,9 @@
      "VIntronEnd": 47, 
      "CDR2Begin": 213
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7599,7 +8644,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7622,7 +8669,9 @@
      "VIntronEnd": 44, 
      "CDR2Begin": 207
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7645,7 +8694,9 @@
      "VIntronEnd": 43, 
      "CDR2Begin": 194
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": false, 
     "chains": [
      "TRG"
@@ -7660,7 +8711,9 @@
      "FR4End": 50, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7675,7 +8728,9 @@
      "FR4End": 60, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7690,7 +8745,9 @@
      "FR4End": 64, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7705,7 +8762,9 @@
      "FR4End": 62, 
      "JBegin": 0
     }, 
-    "meta": {}, 
+    "meta": {
+     "In_IMGT": false
+    }, 
     "isFunctional": true, 
     "chains": [
      "TRG"
@@ -7714,14 +8773,7 @@
   ], 
   "meta": {
    "comments": [
-    "Imported from: ./fasta/TRA.JRegion.fasta", 
-    "Imported from: ./fasta/TRA.VRegion.fasta", 
-    "Imported from: ./fasta/TRB.JRegion.fasta", 
-    "Imported from: ./fasta/TRB.VRegion.fasta", 
-    "Imported from: ./fasta/TRD.JRegion.fasta", 
-    "Imported from: ./fasta/TRD.VRegion.fasta", 
-    "Imported from: ./fasta/TRG.JRegion.fasta", 
-    "Imported from: ./fasta/TRG.VRegion.fasta"
+
    ]
   }
  }
