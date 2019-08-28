@@ -1,0 +1,7728 @@
+[
+ {
+  "taxonId": 9544, 
+  "speciesNames": [
+   "rhesus"
+  ], 
+  "genes": [
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV1-1*01", 
+    "name": "TRAV1-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 144, 
+     "L1Begin": 0, 
+     "CDR3Begin": 312, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 213, 
+     "VEnd": 326, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 195
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV1-1*w02", 
+    "name": "TRAV1-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 144, 
+     "L1Begin": 0, 
+     "CDR3Begin": 312, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 213, 
+     "VEnd": 326, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 195
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV1-2*01", 
+    "name": "TRAV1-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 144, 
+     "L1Begin": 0, 
+     "CDR3Begin": 312, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 213, 
+     "VEnd": 326, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 195
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV2*01", 
+    "name": "TRAV2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 168, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 150, 
+     "FR3Begin": 231, 
+     "VEnd": 338, 
+     "FR1Begin": 75, 
+     "VIntronBegin": 65, 
+     "L2Begin": 65, 
+     "VIntronEnd": 65, 
+     "CDR2Begin": 219
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV2*w02", 
+    "name": "TRAV2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 168, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 150, 
+     "FR3Begin": 231, 
+     "VEnd": 338, 
+     "FR1Begin": 75, 
+     "VIntronBegin": 65, 
+     "L2Begin": 65, 
+     "VIntronEnd": 65, 
+     "CDR2Begin": 219
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV3*01", 
+    "name": "TRAV3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV3*w02", 
+    "name": "TRAV3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV4*01", 
+    "name": "TRAV4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 312, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 213, 
+     "VEnd": 328, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 41, 
+     "L2Begin": 41, 
+     "VIntronEnd": 41, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV5*01", 
+    "name": "TRAV5*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV5*w02", 
+    "name": "TRAV5*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV5*w03", 
+    "name": "TRAV5*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV6*01", 
+    "name": "TRAV6*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV6*w02", 
+    "name": "TRAV6*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-1*01", 
+    "name": "TRAV8-1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-2*01", 
+    "name": "TRAV8-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-3*01", 
+    "name": "TRAV8-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-4*01", 
+    "name": "TRAV8-4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-4*w02", 
+    "name": "TRAV8-4*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-5*01", 
+    "name": "TRAV8-5*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 231, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-5*w02", 
+    "name": "TRAV8-5*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-5*w03", 
+    "name": "TRAV8-5*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-7*01", 
+    "name": "TRAV8-7*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 338, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV8-7*w02", 
+    "name": "TRAV8-7*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 228, 
+     "VEnd": 341, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV9-1*01", 
+    "name": "TRAV9-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 338, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV9-1*w02", 
+    "name": "TRAV9-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 338, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV9-2*01", 
+    "name": "TRAV9-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 338, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV9-2*w02", 
+    "name": "TRAV9-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 338, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV10*01", 
+    "name": "TRAV10*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 141, 
+     "FR3Begin": 231, 
+     "VEnd": 343, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV11-1*01", 
+    "name": "TRAV11-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 141, 
+     "FR3Begin": 231, 
+     "VEnd": 343, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV11-2*01", 
+    "name": "TRAV11-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 147, 
+     "FR2Begin": 96, 
+     "CDR3Begin": 267, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 168, 
+     "VEnd": 277, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV12-1*01", 
+    "name": "TRAV12-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV12-2*01", 
+    "name": "TRAV12-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV12-2*w02", 
+    "name": "TRAV12-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV12-2*w03", 
+    "name": "TRAV12-2*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV12-3*01", 
+    "name": "TRAV12-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 231, 
+     "VEnd": 343, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV12-3*w02", 
+    "name": "TRAV12-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 231, 
+     "VEnd": 343, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV13-1*01", 
+    "name": "TRAV13-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV13-1*w02", 
+    "name": "TRAV13-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV13-1*w03", 
+    "name": "TRAV13-1*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV13-2*01", 
+    "name": "TRAV13-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV13-2*w02", 
+    "name": "TRAV13-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV14-2*01", 
+    "name": "TRAV14-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 234, 
+     "VEnd": 348, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV16*01", 
+    "name": "TRAV16*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 312, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 213, 
+     "VEnd": 326, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV16*w02", 
+    "name": "TRAV16*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 315, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 216, 
+     "VEnd": 329, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV17*01", 
+    "name": "TRAV17*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV17*w02", 
+    "name": "TRAV17*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV18*01", 
+    "name": "TRAV18*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 222, 
+     "VEnd": 335, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV19*01", 
+    "name": "TRAV19*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 150, 
+     "FR2Begin": 99, 
+     "CDR3Begin": 273, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 174, 
+     "VEnd": 290, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV19-1*01", 
+    "name": "TRAV19-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 234, 
+     "VEnd": 350, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV20*01", 
+    "name": "TRAV20*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 141, 
+     "FR3Begin": 231, 
+     "VEnd": 337, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV20*w02", 
+    "name": "TRAV20*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 141, 
+     "FR3Begin": 231, 
+     "VEnd": 337, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV21*01", 
+    "name": "TRAV21*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 336, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV21*w02", 
+    "name": "TRAV21*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 225, 
+     "VEnd": 336, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-1*01", 
+    "name": "TRAV22-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-1*w02", 
+    "name": "TRAV22-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-1*w03", 
+    "name": "TRAV22-1*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-1*w04", 
+    "name": "TRAV22-1*w04", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-2*01", 
+    "name": "TRAV22-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-2*w02", 
+    "name": "TRAV22-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV22-2*w03", 
+    "name": "TRAV22-2*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV23-1*01", 
+    "name": "TRAV23-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 180, 
+     "L1Begin": 0, 
+     "CDR3Begin": 351, 
+     "CDR1Begin": 162, 
+     "FR3Begin": 252, 
+     "VEnd": 364, 
+     "FR1Begin": 84, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 231
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV23-1*w02", 
+    "name": "TRAV23-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 180, 
+     "L1Begin": 0, 
+     "CDR3Begin": 351, 
+     "CDR1Begin": 162, 
+     "FR3Begin": 252, 
+     "VEnd": 364, 
+     "FR1Begin": 84, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 231
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV23-2*01", 
+    "name": "TRAV23-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 180, 
+     "L1Begin": 0, 
+     "CDR3Begin": 351, 
+     "CDR1Begin": 162, 
+     "FR3Begin": 252, 
+     "VEnd": 364, 
+     "FR1Begin": 84, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 231
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV23-3*01", 
+    "name": "TRAV23-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 180, 
+     "L1Begin": 0, 
+     "CDR3Begin": 351, 
+     "CDR1Begin": 162, 
+     "FR3Begin": 252, 
+     "VEnd": 364, 
+     "FR1Begin": 84, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 231
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV23-3*w02", 
+    "name": "TRAV23-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 180, 
+     "L1Begin": 0, 
+     "CDR3Begin": 351, 
+     "CDR1Begin": 162, 
+     "FR3Begin": 252, 
+     "VEnd": 364, 
+     "FR1Begin": 84, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 231
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV24*01", 
+    "name": "TRAV24*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 234, 
+     "VEnd": 343, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 56, 
+     "L2Begin": 56, 
+     "VIntronEnd": 56, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV24*w02", 
+    "name": "TRAV24*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 234, 
+     "VEnd": 343, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 56, 
+     "L2Begin": 56, 
+     "VIntronEnd": 56, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV24*w03", 
+    "name": "TRAV24*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 234, 
+     "VEnd": 343, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 56, 
+     "L2Begin": 56, 
+     "VIntronEnd": 56, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV24*w04", 
+    "name": "TRAV24*w04", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 234, 
+     "VEnd": 343, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 56, 
+     "L2Begin": 56, 
+     "VIntronEnd": 56, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV25*01", 
+    "name": "TRAV25*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 327, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV25*w02", 
+    "name": "TRAV25*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 327, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV25*w03", 
+    "name": "TRAV25*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 327, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV25*w04", 
+    "name": "TRAV25*w04", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 327, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV26-1*01", 
+    "name": "TRAV26-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 334, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV26-1*w02", 
+    "name": "TRAV26-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 154, 
+     "L1Begin": 7, 
+     "CDR3Begin": 319, 
+     "CDR1Begin": 133, 
+     "FR3Begin": 220, 
+     "VEnd": 335, 
+     "FR1Begin": 58, 
+     "VIntronBegin": 52, 
+     "L2Begin": 52, 
+     "VIntronEnd": 52, 
+     "CDR2Begin": 205
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV26-2*01", 
+    "name": "TRAV26-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 222, 
+     "VEnd": 336, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV26-2*w02-corrected5end", 
+    "name": "TRAV26-2*w02-corrected5end", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 312, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 213, 
+     "VEnd": 327, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 46, 
+     "L2Begin": 46, 
+     "VIntronEnd": 46, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV27*01", 
+    "name": "TRAV27*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 328, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV27*w02", 
+    "name": "TRAV27*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 328, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV29*01", 
+    "name": "TRAV29*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 174, 
+     "L1Begin": 0, 
+     "CDR3Begin": 345, 
+     "CDR1Begin": 156, 
+     "FR3Begin": 246, 
+     "VEnd": 358, 
+     "FR1Begin": 78, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 225
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV29*w02", 
+    "name": "TRAV29*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 174, 
+     "L1Begin": 0, 
+     "CDR3Begin": 345, 
+     "CDR1Begin": 156, 
+     "FR3Begin": 246, 
+     "VEnd": 358, 
+     "FR1Begin": 78, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 225
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV29*w03", 
+    "name": "TRAV29*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 174, 
+     "L1Begin": 0, 
+     "CDR3Begin": 345, 
+     "CDR1Begin": 156, 
+     "FR3Begin": 246, 
+     "VEnd": 358, 
+     "FR1Begin": 78, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 225
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV30*01", 
+    "name": "TRAV30*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV30*w02", 
+    "name": "TRAV30*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV33*01", 
+    "name": "TRAV33*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {
+     "mixcrDebug": "CDR3 does not start with C, was: CTC / L / CDR3Begin: 330"
+    }, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV34*01", 
+    "name": "TRAV34*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 153, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 225, 
+     "VEnd": 337, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 204
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV35*01", 
+    "name": "TRAV35*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 330, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV35*w02", 
+    "name": "TRAV35*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 330, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV35*w03", 
+    "name": "TRAV35*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 330, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV36*01", 
+    "name": "TRAV36*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 141, 
+     "FR3Begin": 228, 
+     "VEnd": 340, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV37*01", 
+    "name": "TRAV37*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 141, 
+     "FR3Begin": 231, 
+     "VEnd": 339, 
+     "FR1Begin": 63, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {
+     "mixcrDebug": "CDR3 does not start with C, was: CAG / Q / CDR3Begin: 330"
+    }, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV38-1*01", 
+    "name": "TRAV38-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 234, 
+     "VEnd": 350, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV38-1*w02", 
+    "name": "TRAV38-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 234, 
+     "VEnd": 350, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV38-2*01", 
+    "name": "TRAV38-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 234, 
+     "VEnd": 349, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV39*01", 
+    "name": "TRAV39*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 219, 
+     "VEnd": 331, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV40*01", 
+    "name": "TRAV40*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 303, 
+     "CDR1Begin": 129, 
+     "FR3Begin": 210, 
+     "VEnd": 317, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV41*01", 
+    "name": "TRAV41*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 225, 
+     "VEnd": 336, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV41*w02", 
+    "name": "TRAV41*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 144, 
+     "FR3Begin": 225, 
+     "VEnd": 336, 
+     "FR1Begin": 66, 
+     "VIntronBegin": 53, 
+     "L2Begin": 53, 
+     "VIntronEnd": 53, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV46*01", 
+    "name": "TRAV46*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "VEnd": 277, 
+     "FR1Begin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV46*02", 
+    "name": "TRAV46*02P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "VEnd": 277, 
+     "FR1Begin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ1*01", 
+    "name": "TRAJ1*01P", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ2*01", 
+    "name": "TRAJ2*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 63, 
+     "FR4End": 94, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ3*01", 
+    "name": "TRAJ3*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ4*01", 
+    "name": "TRAJ4*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ5*01", 
+    "name": "TRAJ5*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ6*01", 
+    "name": "TRAJ6*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ7*01", 
+    "name": "TRAJ7*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ7*w02", 
+    "name": "TRAJ7*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ8*01", 
+    "name": "TRAJ8*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ9*01", 
+    "name": "TRAJ9*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 30, 
+     "FR4End": 61, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ10*01", 
+    "name": "TRAJ10*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 33, 
+     "FR4End": 64, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ11*01", 
+    "name": "TRAJ11*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ12*01", 
+    "name": "TRAJ12*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ12*w02", 
+    "name": "TRAJ12*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 33, 
+     "FR4End": 64, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ13*01", 
+    "name": "TRAJ13*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ14*01", 
+    "name": "TRAJ14*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 17, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {
+     "mixcrDebug": "CDR3 does not end with W or F, was: ACA / T / CDR3End: 17"
+    }, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ15*01", 
+    "name": "TRAJ15*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ15*w02", 
+    "name": "TRAJ15*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 33, 
+     "FR4End": 64, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ16*01", 
+    "name": "TRAJ16*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ17*01", 
+    "name": "TRAJ17*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ18*01", 
+    "name": "TRAJ18*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 35, 
+     "FR4End": 66, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ19*01", 
+    "name": "TRAJ19*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ20*01", 
+    "name": "TRAJ20*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ20*w02", 
+    "name": "TRAJ20*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ21*01", 
+    "name": "TRAJ21*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 24, 
+     "FR4End": 55, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ22*01", 
+    "name": "TRAJ22*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ23*01", 
+    "name": "TRAJ23*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ24*01", 
+    "name": "TRAJ24*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ25*01", 
+    "name": "TRAJ25*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ26*01", 
+    "name": "TRAJ26*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ26*w02", 
+    "name": "TRAJ26*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 34, 
+     "FR4End": 65, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ27*01", 
+    "name": "TRAJ27*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ27*w02", 
+    "name": "TRAJ27*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ28*01", 
+    "name": "TRAJ28*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 35, 
+     "FR4End": 66, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ29*01", 
+    "name": "TRAJ29*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ30*01", 
+    "name": "TRAJ30*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ31*01", 
+    "name": "TRAJ31*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ31*w02", 
+    "name": "TRAJ31*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 30, 
+     "FR4End": 61, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ32*01", 
+    "name": "TRAJ32*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 35, 
+     "FR4End": 66, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ32*w02", 
+    "name": "TRAJ32*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 41, 
+     "FR4End": 72, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ33*01", 
+    "name": "TRAJ33*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ34*01", 
+    "name": "TRAJ34*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 25, 
+     "FR4End": 56, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ35*01", 
+    "name": "TRAJ35*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ35*w02", 
+    "name": "TRAJ35*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 30, 
+     "FR4End": 61, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ36*01", 
+    "name": "TRAJ36*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ37*01", 
+    "name": "TRAJ37*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ38*01", 
+    "name": "TRAJ38*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ39*01", 
+    "name": "TRAJ39*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ40*01", 
+    "name": "TRAJ40*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 30, 
+     "FR4End": 61, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ40*w02", 
+    "name": "TRAJ40*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 34, 
+     "FR4End": 65, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ41*01", 
+    "name": "TRAJ41*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ42*01", 
+    "name": "TRAJ42*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 35, 
+     "FR4End": 66, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ42*w02", 
+    "name": "TRAJ42*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 38, 
+     "FR4End": 69, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ43*01", 
+    "name": "TRAJ43*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 23, 
+     "FR4End": 54, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ43*w02", 
+    "name": "TRAJ43*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ44*01", 
+    "name": "TRAJ44*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ45*01", 
+    "name": "TRAJ45*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 35, 
+     "FR4End": 66, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ45*w02", 
+    "name": "TRAJ45*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 41, 
+     "FR4End": 72, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ46*01", 
+    "name": "TRAJ46*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ47*01", 
+    "name": "TRAJ47*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ48*01", 
+    "name": "TRAJ48*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ49*01", 
+    "name": "TRAJ49*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 25, 
+     "FR4End": 56, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ49*w02", 
+    "name": "TRAJ49*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ50*01", 
+    "name": "TRAJ50*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ51*01", 
+    "name": "TRAJ51*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ52*01", 
+    "name": "TRAJ52*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 38, 
+     "FR4End": 69, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ52*02", 
+    "name": "TRAJ52*02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 38, 
+     "FR4End": 69, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ52*w02", 
+    "name": "TRAJ52*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 41, 
+     "FR4End": 72, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ53*01", 
+    "name": "TRAJ53*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 35, 
+     "FR4End": 66, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ54*01", 
+    "name": "TRAJ54*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ55*01", 
+    "name": "TRAJ55*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 2
+    }, 
+    "meta": {
+     "mixcrDebug": "GermlineJCDR3Part contains a stop codon;JRegion contains a stop codon"
+    }, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ56*01", 
+    "name": "TRAJ56*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ57*01", 
+    "name": "TRAJ57*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ58*01", 
+    "name": "TRAJ58*01P", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 32, 
+     "FR4End": 63, 
+     "JBegin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ60*01", 
+    "name": "TRAJ60*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ60*w02", 
+    "name": "TRAJ60*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRA.JRegion.fasta#TRAJ61*01", 
+    "name": "TRAJ61*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 64, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRA"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-1*01", 
+    "name": "TRBV1-1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 139, 
+     "L1Begin": 0, 
+     "CDR3Begin": 316, 
+     "CDR1Begin": 124, 
+     "FR3Begin": 208, 
+     "VEnd": 333, 
+     "FR1Begin": 49, 
+     "VIntronBegin": 42, 
+     "L2Begin": 42, 
+     "VIntronEnd": 42, 
+     "CDR2Begin": 190
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-2*01", 
+    "name": "TRBV1-2*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 139, 
+     "L1Begin": 0, 
+     "CDR3Begin": 313, 
+     "CDR1Begin": 124, 
+     "FR3Begin": 208, 
+     "VEnd": 332, 
+     "FR1Begin": 49, 
+     "VIntronBegin": 42, 
+     "L2Begin": 42, 
+     "VIntronEnd": 42, 
+     "CDR2Begin": 190
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-2*01P", 
+    "name": "TRBV1-2*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 139, 
+     "L1Begin": 0, 
+     "CDR3Begin": 313, 
+     "CDR1Begin": 124, 
+     "FR3Begin": 208, 
+     "VEnd": 332, 
+     "FR1Begin": 49, 
+     "VIntronBegin": 42, 
+     "L2Begin": 42, 
+     "VIntronEnd": 42, 
+     "CDR2Begin": 190
+    }, 
+    "meta": {}, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-3*01", 
+    "name": "TRBV1-3*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 154, 
+     "L1Begin": 0, 
+     "CDR3Begin": 325, 
+     "CDR1Begin": 139, 
+     "FR3Begin": 223, 
+     "VEnd": 329, 
+     "FR1Begin": 61, 
+     "VIntronBegin": 54, 
+     "L2Begin": 54, 
+     "VIntronEnd": 54, 
+     "CDR2Begin": 205
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-3*01P", 
+    "name": "TRBV1-3*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 154, 
+     "L1Begin": 0, 
+     "CDR3Begin": 325, 
+     "CDR1Begin": 139, 
+     "FR3Begin": 223, 
+     "VEnd": 329, 
+     "FR1Begin": 61, 
+     "VIntronBegin": 54, 
+     "L2Begin": 54, 
+     "VIntronEnd": 54, 
+     "CDR2Begin": 205
+    }, 
+    "meta": {}, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV2-1*01", 
+    "name": "TRBV2-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV2-1*w02", 
+    "name": "TRBV2-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV2-2*01", 
+    "name": "TRBV2-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV2-2*w02", 
+    "name": "TRBV2-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV2-3*01", 
+    "name": "TRBV2-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV2-3*w02", 
+    "name": "TRBV2-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-1*01", 
+    "name": "TRBV3-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-2*01", 
+    "name": "TRBV3-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-3*01", 
+    "name": "TRBV3-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-3*w02", 
+    "name": "TRBV3-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-4*01", 
+    "name": "TRBV3-4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-4*w02", 
+    "name": "TRBV3-4*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV3-4*w03", 
+    "name": "TRBV3-4*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-1*01", 
+    "name": "TRBV4-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-1*w02", 
+    "name": "TRBV4-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-2*01", 
+    "name": "TRBV4-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-2*w02", 
+    "name": "TRBV4-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-2*w03", 
+    "name": "TRBV4-2*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-3*01", 
+    "name": "TRBV4-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-3*02", 
+    "name": "TRBV4-3*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV4-3*w02", 
+    "name": "TRBV4-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-1*01", 
+    "name": "TRBV5-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 141, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 210, 
+     "VEnd": 334, 
+     "FR1Begin": 48, 
+     "VIntronBegin": 41, 
+     "L2Begin": 41, 
+     "VIntronEnd": 41, 
+     "CDR2Begin": 192
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-1*02", 
+    "name": "TRBV5-1*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 286, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-1*w02", 
+    "name": "TRBV5-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 141, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 210, 
+     "VEnd": 334, 
+     "FR1Begin": 48, 
+     "VIntronBegin": 41, 
+     "L2Begin": 41, 
+     "VIntronEnd": 41, 
+     "CDR2Begin": 192
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-2*01", 
+    "name": "TRBV5-2*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 141, 
+     "L1Begin": 0, 
+     "CDR3Begin": 318, 
+     "CDR1Begin": 126, 
+     "FR3Begin": 210, 
+     "VEnd": 334, 
+     "FR1Begin": 48, 
+     "VIntronBegin": 41, 
+     "L2Begin": 41, 
+     "VIntronEnd": 41, 
+     "CDR2Begin": 192
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-2*02", 
+    "name": "TRBV5-2*02P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 286, 
+     "FR1Begin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-3*01", 
+    "name": "TRBV5-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 346, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-3*02", 
+    "name": "TRBV5-3*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 273, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 289, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-3*w02", 
+    "name": "TRBV5-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 346, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-3*w03", 
+    "name": "TRBV5-3*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 346, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-4*01", 
+    "name": "TRBV5-4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-4*02", 
+    "name": "TRBV5-4*02P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 286, 
+     "FR1Begin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-4*w02", 
+    "name": "TRBV5-4*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-5*01", 
+    "name": "TRBV5-5*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-5*02", 
+    "name": "TRBV5-5*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 286, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-5*w02", 
+    "name": "TRBV5-5*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-6*01", 
+    "name": "TRBV5-6*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-6*w02", 
+    "name": "TRBV5-6*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-6*w03", 
+    "name": "TRBV5-6*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-7*01", 
+    "name": "TRBV5-7*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-7*w02", 
+    "name": "TRBV5-7*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-8*01", 
+    "name": "TRBV5-8*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-8*w02", 
+    "name": "TRBV5-8*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-8*w03", 
+    "name": "TRBV5-8*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-9*01", 
+    "name": "TRBV5-9*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-9*02", 
+    "name": "TRBV5-9*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 286, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-9*w02", 
+    "name": "TRBV5-9*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-10*01", 
+    "name": "TRBV5-10*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV5-10*w02", 
+    "name": "TRBV5-10*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-1*01", 
+    "name": "TRBV6-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-1*02", 
+    "name": "TRBV6-1*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-1*w02", 
+    "name": "TRBV6-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-2*01", 
+    "name": "TRBV6-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-2*02", 
+    "name": "TRBV6-2*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-2-1*01", 
+    "name": "TRBV6-2-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 252, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "FR1Begin": 0
+    }, 
+    "meta": {
+     "partialLength": true
+    }, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-3*01", 
+    "name": "TRBV6-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-3*02", 
+    "name": "TRBV6-3*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-3*w02", 
+    "name": "TRBV6-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-4*01", 
+    "name": "TRBV6-4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-4*02", 
+    "name": "TRBV6-4*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-5*01", 
+    "name": "TRBV6-5*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-6*01", 
+    "name": "TRBV6-6*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-7*01", 
+    "name": "TRBV6-7*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-8*01", 
+    "name": "TRBV6-8*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-8*01b", 
+    "name": "TRBV6-8*01b", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 339, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV6-8*bw02", 
+    "name": "TRBV6-8*bw02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 339, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-1*01", 
+    "name": "TRBV7-1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 273, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 290, 
+     "FR1Begin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-2*01", 
+    "name": "TRBV7-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 346, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-3*01", 
+    "name": "TRBV7-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-3*w02", 
+    "name": "TRBV7-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-4*01", 
+    "name": "TRBV7-4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-4*02", 
+    "name": "TRBV7-4*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 273, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 290, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-4*w02", 
+    "name": "TRBV7-4*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-4*w03", 
+    "name": "TRBV7-4*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-5*01", 
+    "name": "TRBV7-5*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-5*w02", 
+    "name": "TRBV7-5*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-5*w03", 
+    "name": "TRBV7-5*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-6*01", 
+    "name": "TRBV7-6*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-6*w02", 
+    "name": "TRBV7-6*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-7*01", 
+    "name": "TRBV7-7*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-8*01", 
+    "name": "TRBV7-8*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 172, 
+     "L1Begin": 0, 
+     "CDR3Begin": 343, 
+     "CDR1Begin": 169, 
+     "FR3Begin": 232, 
+     "VEnd": 360, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 214
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-8*01P", 
+    "name": "TRBV7-8*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 172, 
+     "L1Begin": 0, 
+     "CDR3Begin": 343, 
+     "CDR1Begin": 169, 
+     "FR3Begin": 232, 
+     "VEnd": 360, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 214
+    }, 
+    "meta": {}, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-9*01", 
+    "name": "TRBV7-9*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-9*w02", 
+    "name": "TRBV7-9*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-10*01", 
+    "name": "TRBV7-10*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-10*w02", 
+    "name": "TRBV7-10*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV8-1*01", 
+    "name": "TRBV8-1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "L1Begin": 0, 
+     "VEnd": 336, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV8-1*01P", 
+    "name": "TRBV8-1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "L1Begin": 0, 
+     "VEnd": 336, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47
+    }, 
+    "meta": {}, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV9*01", 
+    "name": "TRBV9*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV9*02", 
+    "name": "TRBV9*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 286, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV9*w02", 
+    "name": "TRBV9*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV9*w03", 
+    "name": "TRBV9*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV10-1*01", 
+    "name": "TRBV10-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV10-1*02", 
+    "name": "TRBV10-1*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV10-1*w02", 
+    "name": "TRBV10-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV10-2*01", 
+    "name": "TRBV10-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV10-3*01", 
+    "name": "TRBV10-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV10-3*02", 
+    "name": "TRBV10-3*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 270, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 287, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV11-1*01", 
+    "name": "TRBV11-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV11-1*w02", 
+    "name": "TRBV11-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV11-2*01", 
+    "name": "TRBV11-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV11-2*w02", 
+    "name": "TRBV11-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV11-2*w03", 
+    "name": "TRBV11-2*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV11-3*01", 
+    "name": "TRBV11-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-1*01", 
+    "name": "TRBV12-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 216, 
+     "VEnd": 344, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-2*01", 
+    "name": "TRBV12-2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-2*02", 
+    "name": "TRBV12-2*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 144, 
+     "FR2Begin": 93, 
+     "CDR3Begin": 273, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 290, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-2*w02", 
+    "name": "TRBV12-2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-3*01", 
+    "name": "TRBV12-3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-3*w02", 
+    "name": "TRBV12-3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-3*w03", 
+    "name": "TRBV12-3*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-4*01", 
+    "name": "TRBV12-4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV12-4*w02", 
+    "name": "TRBV12-4*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV13*01", 
+    "name": "TRBV13*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV13*w02", 
+    "name": "TRBV13*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 148, 
+     "L1Begin": 25, 
+     "CDR3Begin": 325, 
+     "CDR1Begin": 133, 
+     "FR3Begin": 217, 
+     "VEnd": 342, 
+     "FR1Begin": 55, 
+     "VIntronBegin": 29, 
+     "L2Begin": 29, 
+     "VIntronEnd": 29, 
+     "CDR2Begin": 199
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV13*w03", 
+    "name": "TRBV13*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 148, 
+     "L1Begin": 25, 
+     "CDR3Begin": 325, 
+     "CDR1Begin": 133, 
+     "FR3Begin": 217, 
+     "VEnd": 342, 
+     "FR1Begin": 55, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 199
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV14*01", 
+    "name": "TRBV14*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV14*w02", 
+    "name": "TRBV14*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV14*w03", 
+    "name": "TRBV14*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV15*01", 
+    "name": "TRBV15*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV16*01", 
+    "name": "TRBV16*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV16*w02", 
+    "name": "TRBV16*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV18*01", 
+    "name": "TRBV18*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV19*01", 
+    "name": "TRBV19*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV19*w02", 
+    "name": "TRBV19*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV20*w02", 
+    "name": "TRBV20*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 141, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 123, 
+     "FR3Begin": 213, 
+     "VEnd": 338, 
+     "FR1Begin": 45, 
+     "VIntronBegin": 32, 
+     "L2Begin": 32, 
+     "VIntronEnd": 32, 
+     "CDR2Begin": 192
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV20*w03", 
+    "name": "TRBV20*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 141, 
+     "L1Begin": 0, 
+     "CDR3Begin": 324, 
+     "CDR1Begin": 123, 
+     "FR3Begin": 213, 
+     "VEnd": 338, 
+     "FR1Begin": 45, 
+     "VIntronBegin": 32, 
+     "L2Begin": 32, 
+     "VIntronEnd": 32, 
+     "CDR2Begin": 192
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV20-1*01", 
+    "name": "TRBV20-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 138, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 120, 
+     "FR3Begin": 210, 
+     "VEnd": 335, 
+     "FR1Begin": 42, 
+     "VIntronBegin": 32, 
+     "L2Begin": 32, 
+     "VIntronEnd": 32, 
+     "CDR2Begin": 189
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV21-1*01", 
+    "name": "TRBV21-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV22-1*01", 
+    "name": "TRBV22-1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 146, 
+     "L1Begin": 0, 
+     "CDR3Begin": 323, 
+     "CDR1Begin": 134, 
+     "FR3Begin": 215, 
+     "VEnd": 339, 
+     "FR1Begin": 59, 
+     "VIntronBegin": 52, 
+     "L2Begin": 52, 
+     "VIntronEnd": 52, 
+     "CDR2Begin": 197
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV23-1*01", 
+    "name": "TRBV23-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV24-1*01", 
+    "name": "TRBV24-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 345, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV25-1*01", 
+    "name": "TRBV25-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV26*01", 
+    "name": "TRBV26*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV26*02P", 
+    "name": "TRBV26*02P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 343, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV27*01", 
+    "name": "TRBV27*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV27*w02", 
+    "name": "TRBV27*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV28*01", 
+    "name": "TRBV28*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV28*w02", 
+    "name": "TRBV28*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 327, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 344, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV29-1*01", 
+    "name": "TRBV29-1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 138, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 123, 
+     "FR3Begin": 210, 
+     "VEnd": 335, 
+     "FR1Begin": 45, 
+     "VIntronBegin": 35, 
+     "L2Begin": 35, 
+     "VIntronEnd": 35, 
+     "CDR2Begin": 189
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV29-1*w02", 
+    "name": "TRBV29-1*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 138, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 123, 
+     "FR3Begin": 210, 
+     "VEnd": 335, 
+     "FR1Begin": 45, 
+     "VIntronBegin": 35, 
+     "L2Begin": 35, 
+     "VIntronEnd": 35, 
+     "CDR2Begin": 189
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV30*01", 
+    "name": "TRBV30*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 129, 
+     "FR3Begin": 213, 
+     "VEnd": 335, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV30*w02", 
+    "name": "TRBV30*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 129, 
+     "FR3Begin": 213, 
+     "VEnd": 335, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBV30*w03", 
+    "name": "TRBV30*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 147, 
+     "L1Begin": 0, 
+     "CDR3Begin": 321, 
+     "CDR1Begin": 129, 
+     "FR3Begin": 213, 
+     "VEnd": 335, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 198
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBVA*01", 
+    "name": "TRBVA*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "L1Begin": 0, 
+     "VEnd": 315, 
+     "FR1Begin": 55, 
+     "VIntronBegin": 48, 
+     "L2Begin": 48, 
+     "VIntronEnd": 48
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.VRegion.fasta#TRBVB*01", 
+    "name": "TRBVB*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "L1Begin": 0, 
+     "VEnd": 397, 
+     "FR1Begin": 46, 
+     "VIntronBegin": 46, 
+     "L2Begin": 46, 
+     "VIntronEnd": 46
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-1*01", 
+    "name": "TRBJ1-1*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 20, 
+     "FR4End": 48, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-1*w02", 
+    "name": "TRBJ1-1*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-2*01", 
+    "name": "TRBJ1-2*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 20, 
+     "FR4End": 48, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-3*01", 
+    "name": "TRBJ1-3*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 22, 
+     "FR4End": 50, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-4*01", 
+    "name": "TRBJ1-4*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 23, 
+     "FR4End": 51, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-5*01", 
+    "name": "TRBJ1-5*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 22, 
+     "FR4End": 50, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-5*w02", 
+    "name": "TRBJ1-5*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 54, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-5*w03", 
+    "name": "TRBJ1-5*w03", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 54, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-6*01", 
+    "name": "TRBJ1-6*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 25, 
+     "FR4End": 53, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-6*02", 
+    "name": "TRBJ1-6*02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 25, 
+     "FR4End": 53, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-6*w02", 
+    "name": "TRBJ1-6*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ1-6*w03", 
+    "name": "TRBJ1-6*w03", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 31, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-1*01", 
+    "name": "TRBJ2-1*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 22, 
+     "FR4End": 50, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-1*02", 
+    "name": "TRBJ2-1*02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 22, 
+     "FR4End": 50, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-1*w03-REVIEW", 
+    "name": "TRBJ2-1*w03-REVIEW", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 29, 
+     "FR4End": 57, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-2*01", 
+    "name": "TRBJ2-2*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 23, 
+     "FR4End": 51, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-2P*02", 
+    "name": "TRBJ2-2P*02P", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 18, 
+     "FR4End": 46, 
+     "JBegin": 0
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-3*01", 
+    "name": "TRBJ2-3*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 21, 
+     "FR4End": 49, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-4*01", 
+    "name": "TRBJ2-4*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 21, 
+     "FR4End": 49, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-5*01", 
+    "name": "TRBJ2-5*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 20, 
+     "FR4End": 48, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-6*01", 
+    "name": "TRBJ2-6*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 25, 
+     "FR4End": 53, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-7*01", 
+    "name": "TRBJ2-7*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 19, 
+     "FR4End": 47, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRB"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.VRegion.fasta#TRDV1*01", 
+    "name": "TRDV1*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 219, 
+     "VEnd": 347, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 50, 
+     "L2Begin": 50, 
+     "VIntronEnd": 50, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.VRegion.fasta#TRDV2*01", 
+    "name": "TRDV2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 159, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 135, 
+     "FR3Begin": 219, 
+     "VEnd": 345, 
+     "FR1Begin": 57, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 210
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.VRegion.fasta#TRDV3*01", 
+    "name": "TRDV3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 330, 
+     "CDR1Begin": 129, 
+     "FR3Begin": 219, 
+     "VEnd": 341, 
+     "FR1Begin": 51, 
+     "VIntronBegin": 38, 
+     "L2Begin": 38, 
+     "VIntronEnd": 38, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.VRegion.fasta#TRDV3*02", 
+    "name": "TRDV3*02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 150, 
+     "FR2Begin": 99, 
+     "CDR3Begin": 279, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 168, 
+     "VEnd": 290, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.VRegion.fasta#TRDV4*01", 
+    "name": "TRDV4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "CDR2Begin": 153, 
+     "FR2Begin": 102, 
+     "CDR3Begin": 273, 
+     "CDR1Begin": 78, 
+     "FR3Begin": 162, 
+     "VEnd": 288, 
+     "FR1Begin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.JRegion.fasta#TRDJ1*01", 
+    "name": "TRDJ1*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 20, 
+     "FR4End": 51, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.JRegion.fasta#TRDJ2*01", 
+    "name": "TRDJ2*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 23, 
+     "FR4End": 54, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.JRegion.fasta#TRDJ3*01", 
+    "name": "TRDJ3*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 28, 
+     "FR4End": 59, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRD.JRegion.fasta#TRDJ4*01", 
+    "name": "TRDJ4*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 17, 
+     "FR4End": 48, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRD"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV1*01", 
+    "name": "TRGV1*01P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 146, 
+     "L1Begin": 0, 
+     "CDR1Begin": 128, 
+     "FR3Begin": 221, 
+     "VEnd": 314, 
+     "FR1Begin": 50, 
+     "VIntronBegin": 44, 
+     "L2Begin": 46, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 197
+    }, 
+    "meta": {
+     "addedP": true
+    }, 
+    "isFunctional": false, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV2*01", 
+    "name": "TRGV2*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV2*w02", 
+    "name": "TRGV2*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV3*01", 
+    "name": "TRGV3*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV3*w02", 
+    "name": "TRGV3*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV4*01", 
+    "name": "TRGV4*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 333, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 351, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV6*01", 
+    "name": "TRGV6*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV6*w02", 
+    "name": "TRGV6*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV6*w03", 
+    "name": "TRGV6*w03", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 150, 
+     "L1Begin": 0, 
+     "CDR3Begin": 336, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 225, 
+     "VEnd": 354, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 201
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV9*01", 
+    "name": "TRGV9*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 162, 
+     "L1Begin": 0, 
+     "CDR3Begin": 348, 
+     "CDR1Begin": 138, 
+     "FR3Begin": 234, 
+     "VEnd": 366, 
+     "FR1Begin": 60, 
+     "VIntronBegin": 47, 
+     "L2Begin": 47, 
+     "VIntronEnd": 47, 
+     "CDR2Begin": 213
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV10*01", 
+    "name": "TRGV10*01", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 345, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 231, 
+     "VEnd": 359, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGV10*w02", 
+    "name": "TRGV10*w02", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 156, 
+     "L1Begin": 0, 
+     "CDR3Begin": 345, 
+     "CDR1Begin": 132, 
+     "FR3Begin": 231, 
+     "VEnd": 359, 
+     "FR1Begin": 54, 
+     "VIntronBegin": 44, 
+     "L2Begin": 44, 
+     "VIntronEnd": 44, 
+     "CDR2Begin": 207
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.VRegion.fasta#TRGVA*00P", 
+    "name": "TRGVA*00P", 
+    "geneType": "V", 
+    "anchorPoints": {
+     "FR2Begin": 143, 
+     "L1Begin": 0, 
+     "CDR3Begin": 323, 
+     "CDR1Begin": 128, 
+     "FR3Begin": 218, 
+     "VEnd": 341, 
+     "FR1Begin": 47, 
+     "VIntronBegin": 43, 
+     "L2Begin": 43, 
+     "VIntronEnd": 43, 
+     "CDR2Begin": 194
+    }, 
+    "meta": {}, 
+    "isFunctional": false, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.JRegion.fasta#TRGJ1*01", 
+    "name": "TRGJ1*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 22, 
+     "FR4End": 50, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.JRegion.fasta#TRGJ2*01", 
+    "name": "TRGJ2*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 26, 
+     "FR4End": 60, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.JRegion.fasta#TRGJ2*w02", 
+    "name": "TRGJ2*w02", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 30, 
+     "FR4End": 64, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }, 
+   {
+    "baseSequence": "file://TRG.JRegion.fasta#TRGJ3*01", 
+    "name": "TRGJ3*01", 
+    "geneType": "J", 
+    "anchorPoints": {
+     "FR4Begin": 34, 
+     "FR4End": 62, 
+     "JBegin": 0
+    }, 
+    "meta": {}, 
+    "isFunctional": true, 
+    "chains": [
+     "TRG"
+    ]
+   }
+  ], 
+  "meta": {
+   "comments": [
+    "Imported from: ./fasta/TRA.JRegion.fasta", 
+    "Imported from: ./fasta/TRA.VRegion.fasta", 
+    "Imported from: ./fasta/TRB.JRegion.fasta", 
+    "Imported from: ./fasta/TRB.VRegion.fasta", 
+    "Imported from: ./fasta/TRD.JRegion.fasta", 
+    "Imported from: ./fasta/TRD.VRegion.fasta", 
+    "Imported from: ./fasta/TRG.JRegion.fasta", 
+    "Imported from: ./fasta/TRG.VRegion.fasta"
+   ]
+  }
+ }
+]
