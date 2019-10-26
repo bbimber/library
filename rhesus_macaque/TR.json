@@ -2690,8 +2690,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 28,
-     "FR4End": 59
+     "FR4Begin": 26,
+     "FR4End": 57
     }
    },
    {
@@ -2781,8 +2781,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 29,
-     "FR4End": 60
+     "FR4Begin": 25,
+     "FR4End": 56
     }
    },
    {
@@ -2798,8 +2798,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 33,
-     "FR4End": 64
+     "FR4Begin": 25,
+     "FR4End": 56
     }
    },
    {
@@ -2835,7 +2835,7 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 17,
+     "FR4Begin": 20,
      "FR4End": 57
     }
    },
@@ -2871,8 +2871,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 33,
-     "FR4End": 64
+     "FR4Begin": 29,
+     "FR4End": 60
     }
    },
    {
@@ -2981,8 +2981,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 31,
-     "FR4End": 62
+     "FR4Begin": 26,
+     "FR4End": 57
     }
    },
    {
@@ -3108,8 +3108,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 34,
-     "FR4End": 65
+     "FR4Begin": 29,
+     "FR4End": 60
     }
    },
    {
@@ -3144,8 +3144,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 32,
-     "FR4End": 63
+     "FR4Begin": 28,
+     "FR4End": 59
     }
    },
    {
@@ -3234,8 +3234,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 30,
-     "FR4End": 61
+     "FR4Begin": 26,
+     "FR4End": 57
     }
    },
    {
@@ -3270,8 +3270,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 41,
-     "FR4End": 72
+     "FR4Begin": 35,
+     "FR4End": 66
     }
    },
    {
@@ -3342,8 +3342,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 30,
-     "FR4End": 61
+     "FR4Begin": 28,
+     "FR4End": 59
     }
    },
    {
@@ -3450,8 +3450,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 34,
-     "FR4End": 65
+     "FR4Begin": 30,
+     "FR4End": 61
     }
    },
    {
@@ -3505,8 +3505,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 38,
-     "FR4End": 69
+     "FR4Begin": 35,
+     "FR4End": 66
     }
    },
    {
@@ -3541,8 +3541,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 28,
-     "FR4End": 59
+     "FR4Begin": 23,
+     "FR4End": 54
     }
    },
    {
@@ -3596,8 +3596,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 41,
-     "FR4End": 72
+     "FR4Begin": 35,
+     "FR4End": 66
     }
    },
    {
@@ -3686,8 +3686,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 29,
-     "FR4End": 60
+     "FR4Begin": 25,
+     "FR4End": 56
     }
    },
    {
@@ -3761,23 +3761,6 @@
      "JBegin": 0,
      "FR4Begin": 38,
      "FR4End": 69
-    }
-   },
-   {
-    "baseSequence": "file://TRA.JRegion.fasta#TRAJ52*w02",
-    "name": "TRAJ52*w02",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [
-     "TRA"
-    ],
-    "meta": {
-     "In_IMGT": "false"
-    },
-    "anchorPoints": {
-     "JBegin": 0,
-     "FR4Begin": 41,
-     "FR4End": 72
     }
    },
    {
@@ -3922,8 +3905,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 28,
-     "FR4End": 59
+     "FR4Begin": 26,
+     "FR4End": 57
     }
    },
    {
@@ -3941,7 +3924,7 @@
     "anchorPoints": {
      "JBegin": 0,
      "FR4Begin": 29,
-     "FR4End": 64
+     "FR4End": 60
     }
    },
    {
@@ -6961,16 +6944,16 @@
      "In_IMGT": "false"
     },
     "anchorPoints": {
-     "L1Begin": 25,
-     "VIntronBegin": 29,
-     "L2Begin": 29,
-     "FR1Begin": 55,
-     "CDR1Begin": 133,
-     "FR2Begin": 148,
-     "CDR2Begin": 199,
-     "FR3Begin": 217,
-     "CDR3Begin": 325,
-     "VEnd": 342
+      "L1Begin": 0,
+      "VIntronBegin": 30,
+      "L2Begin": 30,
+      "FR1Begin": 30,
+      "CDR1Begin": 108,
+      "FR2Begin": 123,
+      "CDR2Begin": 174,
+      "FR3Begin": 192,
+      "CDR3Begin": 300,
+      "VEnd": 317
     }
    },
    {
@@ -6985,16 +6968,16 @@
      "In_IMGT": "false"
     },
     "anchorPoints": {
-     "L1Begin": 25,
-     "VIntronBegin": 50,
-     "L2Begin": 50,
-     "FR1Begin": 55,
-     "CDR1Begin": 133,
-     "FR2Begin": 148,
-     "CDR2Begin": 199,
-     "FR3Begin": 217,
-     "CDR3Begin": 325,
-     "VEnd": 342
+      "L1Begin": 0,
+      "VIntronBegin": 30,
+      "L2Begin": 30,
+      "FR1Begin": 30,
+      "CDR1Begin": 108,
+      "FR2Begin": 123,
+      "CDR2Begin": 174,
+      "FR3Begin": 192,
+      "CDR3Begin": 300,
+      "VEnd": 317
     }
    },
    {
@@ -7814,8 +7797,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 29,
-     "FR4End": 57
+     "FR4Begin": 20,
+     "FR4End": 48
     }
    },
    {
@@ -7904,8 +7887,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 26,
-     "FR4End": 54
+     "FR4Begin": 22,
+     "FR4End": 50
     }
    },
    {
@@ -7922,8 +7905,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 26,
-     "FR4End": 54
+     "FR4Begin": 22,
+     "FR4End": 50
     }
    },
    {
@@ -7977,8 +7960,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 31,
-     "FR4End": 59
+     "FR4Begin": 25,
+     "FR4End": 53
     }
    },
    {
@@ -7994,8 +7977,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 31,
-     "FR4End": 59
+     "FR4Begin": 25,
+     "FR4End": 53
     }
    },
    {
@@ -8036,8 +8019,8 @@
     }
    },
    {
-    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-1*w03-REVIEW",
-    "name": "TRBJ2-1*w03-REVIEW",
+    "baseSequence": "file://TRB.JRegion.fasta#TRBJ2-1*w03",
+    "name": "TRBJ2-1*w03",
     "geneType": "J",
     "isFunctional": true,
     "chains": [
@@ -8049,8 +8032,8 @@
     },
     "anchorPoints": {
      "JBegin": 0,
-     "FR4Begin": 29,
-     "FR4End": 57
+     "FR4Begin": 22,
+     "FR4End": 50
     }
    },
    {
