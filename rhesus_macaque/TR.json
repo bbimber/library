@@ -3981,30 +3981,6 @@
     }
    },
    {
-    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-2*01",
-    "name": "TRBV1-2*01",
-    "geneType": "V",
-    "isFunctional": false,
-    "chains": [
-     "TRB"
-    ],
-    "meta": {
-     "In_IMGT": "false"
-    },
-    "anchorPoints": {
-     "L1Begin": 0,
-     "VIntronBegin": 42,
-     "L2Begin": 42,
-     "FR1Begin": 49,
-     "CDR1Begin": 124,
-     "FR2Begin": 139,
-     "CDR2Begin": 190,
-     "FR3Begin": 208,
-     "CDR3Begin": 313,
-     "VEnd": 332
-    }
-   },
-   {
     "baseSequence": "file://TRB.VRegion.fasta#TRBV1-2*01P",
     "name": "TRBV1-2*01P",
     "geneType": "V",
@@ -4026,30 +4002,6 @@
      "FR3Begin": 208,
      "CDR3Begin": 313,
      "VEnd": 332
-    }
-   },
-   {
-    "baseSequence": "file://TRB.VRegion.fasta#TRBV1-3*01",
-    "name": "TRBV1-3*01",
-    "geneType": "V",
-    "isFunctional": false,
-    "chains": [
-     "TRB"
-    ],
-    "meta": {
-     "In_IMGT": "false"
-    },
-    "anchorPoints": {
-     "L1Begin": 0,
-     "VIntronBegin": 54,
-     "L2Begin": 54,
-     "FR1Begin": 61,
-     "CDR1Begin": 139,
-     "FR2Begin": 154,
-     "CDR2Begin": 205,
-     "FR3Begin": 223,
-     "CDR3Begin": 325,
-     "VEnd": 329
     }
    },
    {
@@ -6085,30 +6037,6 @@
     }
    },
    {
-    "baseSequence": "file://TRB.VRegion.fasta#TRBV7-8*01",
-    "name": "TRBV7-8*01",
-    "geneType": "V",
-    "isFunctional": false,
-    "chains": [
-     "TRB"
-    ],
-    "meta": {
-     "In_IMGT": "false"
-    },
-    "anchorPoints": {
-     "L1Begin": 0,
-     "VIntronBegin": 50,
-     "L2Begin": 50,
-     "FR1Begin": 57,
-     "CDR1Begin": 169,
-     "FR2Begin": 172,
-     "CDR2Begin": 214,
-     "FR3Begin": 232,
-     "CDR3Begin": 343,
-     "VEnd": 360
-    }
-   },
-   {
     "baseSequence": "file://TRB.VRegion.fasta#TRBV7-8*01P",
     "name": "TRBV7-8*01P",
     "geneType": "V",
@@ -6233,25 +6161,6 @@
      "FR3Begin": 219,
      "CDR3Begin": 330,
      "VEnd": 347
-    }
-   },
-   {
-    "baseSequence": "file://TRB.VRegion.fasta#TRBV8-1*01",
-    "name": "TRBV8-1*01",
-    "geneType": "V",
-    "isFunctional": false,
-    "chains": [
-     "TRB"
-    ],
-    "meta": {
-     "In_IMGT": "false"
-    },
-    "anchorPoints": {
-     "L1Begin": 0,
-     "VIntronBegin": 47,
-     "L2Begin": 47,
-     "FR1Begin": 54,
-     "VEnd": 336
     }
    },
    {
@@ -7420,30 +7329,6 @@
      "FR3Begin": 219,
      "CDR3Begin": 327,
      "VEnd": 344
-    }
-   },
-   {
-    "baseSequence": "file://TRB.VRegion.fasta#TRBV26*01",
-    "name": "TRBV26*01",
-    "geneType": "V",
-    "isFunctional": false,
-    "chains": [
-     "TRB"
-    ],
-    "meta": {
-     "In_IMGT": "false"
-    },
-    "anchorPoints": {
-     "L1Begin": 0,
-     "VIntronBegin": 50,
-     "L2Begin": 50,
-     "FR1Begin": 57,
-     "CDR1Begin": 135,
-     "FR2Begin": 150,
-     "CDR2Begin": 201,
-     "FR3Begin": 219,
-     "CDR3Begin": 327,
-     "VEnd": 343
     }
    },
    {
