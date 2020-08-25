@@ -1945,8 +1945,8 @@
     }
    },
    {
-    "baseSequence": "file://TRA.VRegion.fasta#TRAV26-2*w02-corrected5end",
-    "name": "TRAV26-2*w02-corrected5end",
+    "baseSequence": "file://TRA.VRegion.fasta#TRAV26-2*w02",
+    "name": "TRAV26-2*w02",
     "geneType": "V",
     "isFunctional": true,
     "chains": [
